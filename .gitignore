@@ -1,0 +1,5 @@
+# Python
+
+# Environments
+.env
+mqtt_client/.env/
